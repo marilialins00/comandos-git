@@ -24,3 +24,5 @@
 
 - git push
   É o oposto de buscar (com algumas ressalvas). Permite que você mova uma ramificação local para outro repositório, o que é um modo conveniente de publicar as contribuições. É semelhante ao svn commit, mas envia uma série de commits em vez de um único conjunto de alterações.
+
+console.log("Olá, mundo!");
